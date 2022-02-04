@@ -1,20 +1,4 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "name": "Tim Lee",
-      "distance": "10m"
-    },
-    {
-      "id": 2,
-      "name": "Richard Tay",
-      "distance": "20m"
-    },
-    {
-      "id": 3,
-      "name": "Gupta Singh",
-      "distance": "30m"
-    }
-  ]
+  "ble": ["uuid1, uuid2, uuid3]
 
 }
