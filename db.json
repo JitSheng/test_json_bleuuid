@@ -1,16 +1,19 @@
 {
-  "bleuuid": [
+  "users": [
     {
       "id": 1,
-      "uuid": "123456",
+      "name": "Tim Lee",
+      "distance": "10m"
     },
     {
       "id": 2,
-      "uuid": "asdfqwer",
+      "name": "Richard Tay",
+      "distance": "20m"
     },
     {
       "id": 3,
-      "uuid": "qwerty",
+      "name": "Gupta Singh",
+      "distance": "30m"
     }
   ]
 
