@@ -1,4 +1,4 @@
 {
-  "ble": ["uuid1, uuid2, uuid3]
+  "ble": ["uuid1", "uuid2", "uuid3"]
 
 }
