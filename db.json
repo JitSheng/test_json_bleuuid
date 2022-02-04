@@ -1,0 +1,17 @@
+{
+  "bleuuid": [
+    {
+      "id": 1,
+      "uuid": "123456",
+    },
+    {
+      "id": 2,
+      "uuid": "asdfqwer",
+    },
+    {
+      "id": 3,
+      "uuid": "qwerty",
+    }
+  ]
+
+}
